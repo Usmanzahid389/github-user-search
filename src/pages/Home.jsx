@@ -5,7 +5,7 @@ function Home() {
   return (
     <>
      <UserSearch />
-      {/* <UserResults /> */}
+      <UserResults />
     </>
   )
 }
